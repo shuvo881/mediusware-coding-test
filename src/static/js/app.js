@@ -33048,8 +33048,8 @@ var CreateProduct = function CreateProduct(props) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/golammostofa/Documents/code/mediusware-coding-test/src/templates/assets/js/app.js */"./src/templates/assets/js/app.js");
-module.exports = __webpack_require__(/*! /home/golammostofa/Documents/code/mediusware-coding-test/src/templates/assets/scss/main.scss */"./src/templates/assets/scss/main.scss");
+__webpack_require__(/*! /home/golammostofa/Downloads/django-coding-test-reactjs/django-coding-test/src/templates/assets/js/app.js */"./src/templates/assets/js/app.js");
+module.exports = __webpack_require__(/*! /home/golammostofa/Downloads/django-coding-test-reactjs/django-coding-test/src/templates/assets/scss/main.scss */"./src/templates/assets/scss/main.scss");
 
 
 /***/ })
